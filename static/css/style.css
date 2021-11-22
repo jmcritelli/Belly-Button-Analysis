@@ -1,0 +1,10 @@
+body {
+
+  color: #72ff4f;
+}
+
+.jumbotron {
+  background-image: url("science4.jpg");
+  background-size: 100%;
+  text-align: center;
+}
